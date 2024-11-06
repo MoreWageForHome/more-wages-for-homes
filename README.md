@@ -235,6 +235,7 @@
 <h3 align="center">시각화</h3>
 <p align="center">
     <img src="https://img.shields.io/badge/apachesuperset-20A6C9?&logo=apachesuperset&logoColor=white">
+    <img src="https://img.shields.io/badge/preset-00B992?logoColor=white" alt="preset" />
 </p>
 <h3 align="center">Data</h3>
 <p align="center">
@@ -248,7 +249,6 @@
     <img src="https://img.shields.io/badge/github-181717?&logo=github&logoColor=white">
     <img src="https://img.shields.io/badge/Notion-232F3E?&logo=Notion&logoColor=white">
     <img src="https://img.shields.io/badge/slack-E4637C?&logo=slack&logoColor=white">
-    <img src="https://img.shields.io/badge/preset--io-00B992?logoColor=white" alt="preset" />
 </p>
 
 </br>
