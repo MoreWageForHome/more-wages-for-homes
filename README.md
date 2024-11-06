@@ -1,55 +1,153 @@
-## 프로젝트 시각화 결과
-
-### 1. 자치구별 부동산 가격 분포 지도 
-
+## 📍 프로젝트 시각화 결과
+### 부동산 매매/전세가와 평균임금 상승률
 <table>
   <tr>
     <td align="center">
-      <img src=""/>
-    </td>
-    <td align="center">
-      <img src="" />
-    </td>
-    <td align="center">
-      <img src="" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <span>시각화1</span>
-    </td>
-    <td align="center">
-      <span>시각화1</span>
-    </td>
-    <td align="center">
-      <span>시각화1</span>
+      <img src="https://github.com/yygs321/more-wages-for-homes/blob/feat/-sql/pics/visualization_screenshots/image%20(2).png" alt="부동산 매매/전세가와 평균임금 상승률">
     </td>
   </tr>
 </table>
 
-### 기능
-
+### 거래 타입별 거래량
 <table>
   <tr>
     <td align="center">
-      <img src="" />
-    </td>
-    <td align="center">
-      <img src="" />
-    </td>
-    <td align="center">
-      <img src="" />
+      <img src="https://github.com/yygs321/more-wages-for-homes/blob/feat/-sql/pics/visualization_screenshots/image%20(4).png" alt="매매 / 전세 / 월세 자치구 별 거래량">
     </td>
   </tr>
   <tr>
     <td align="center">
-      <span>시각화2</span>
+      <span>매매 / 전세 / 월세 자치구 별 거래량</span>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/yygs321/more-wages-for-homes/blob/feat/-sql/pics/visualization_screenshots/image%20(5).png" alt="매매 / 전월세 자치구 별 건물 유형 거래량">
     </td>
     <td align="center">
-      <span>시각화2</span>
+      <img src="https://github.com/yygs321/more-wages-for-homes/blob/feat/-sql/pics/visualization_screenshots/image%20(6).png" alt="건축연도별 매매량">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <span>매매 / 전월세 자치구 별 건물 유형 거래량</span>
     </td>
     <td align="center">
-      <span>시각화2</span>
+      <span>건축연도별 매매량</span>
+    </td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/yygs321/more-wages-for-homes/blob/feat/-sql/pics/visualization_screenshots/image%20(7).png" alt="자치구별 세입 유형 거래량 분포">
+    </td>
+    <td align="center">
+      <img src="https://github.com/yygs321/more-wages-for-homes/blob/feat/-sql/pics/visualization_screenshots/image%20(8).png" alt="임대 면적 구간별 전/월세 임차 선호">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <span>자치구별 세입 유형 거래량 분포</span>
+    </td>
+    <td align="center">
+      <span>임대 면적 구간별 전/월세 임차 선호</span>
+    </td>
+  </tr>
+</table>
+
+
+### 자치구, 거래 타입별 거래가
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/yygs321/more-wages-for-homes/blob/feat/-sql/pics/visualization_screenshots/image%20(9).png"/>
+    </td>
+    <td align="center">
+      <img src="https://github.com/yygs321/more-wages-for-homes/blob/feat/-sql/pics/visualization_screenshots/image%20(10).png" />
+    </td>
+    <td align="center">
+      <img src="https://github.com/yygs321/more-wages-for-homes/blob/feat/-sql/pics/visualization_screenshots/image%20(11).png" />
+    </td>
+    <td align="center">
+      <img src="https://github.com/yygs321/more-wages-for-homes/blob/feat/-sql/pics/visualization_screenshots/image%20(12).png" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <span>평균 매매가</span>
+    </td>
+    <td align="center">
+      <span>평균 전세가</span>
+    </td>
+    <td align="center">
+      <span>평균 월세 보증금</span>
+    </td>
+    <td align="center">
+      <span>평균 월세</span>
+    </td>
+  </tr>
+</table>
+<table>
+<tr>
+  <td>
+    <img src="https://github.com/yygs321/more-wages-for-homes/blob/feat/-sql/pics/visualization_screenshots/image%20(13).png" />
+  </td>
+</tr>
+<tr>
+    <td align="center">
+      <span>자치구별 매매/전세 평당 가격</span>
+    </td>
+</tr>
+</table>
+
+### 거래량 / 가격 비교
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/yygs321/more-wages-for-homes/blob/feat/-sql/pics/visualization_screenshots/image%20(14).png" />
+    </td>
+      <td>
+      <img src="https://github.com/yygs321/more-wages-for-homes/blob/feat/-sql/pics/visualization_screenshots/image%20(15).png" />
+    </td>
+      <td>
+      <img src="https://github.com/yygs321/more-wages-for-homes/blob/feat/-sql/pics/visualization_screenshots/image%20(16).png" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <span>매매 부동산 거래량 - 매매가</span>
+    </td>
+    <td align="center">
+      <span>전세 부동산 거래량 - 전세가</span>
+    </td>
+    <td align="center">
+      <span>월세 부동산 거래량 - 월세</span>
+    </td>
+  </tr>
+</table>
+
+### 임금 / 부동산 정보 비교
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/yygs321/more-wages-for-homes/blob/feat/-sql/pics/visualization_screenshots/image%20(15).png" />
+    </td>
+    <td align="center">
+      <img src="https://github.com/yygs321/more-wages-for-homes/blob/feat/-sql/pics/visualization_screenshots/image%20(16).png" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <span>연령대별 연도별 임금상승률 추이</span>
+    </td>
+    <td align="center">
+      <span>연도별 임차료 및 평균 연봉</span>
     </td>
   </tr>
 </table>
@@ -57,7 +155,7 @@
 </br>
 </br>
 
-## System Architecture
+## ⚙System Architecture
 
 ### 데이터 파이프라인
 
@@ -109,7 +207,7 @@
 </br>
 </br>
 
-## ERD
+## 💾 ERD
 <table>
   <tr>
     <td align="center">
@@ -132,7 +230,7 @@
 </br>
 </br>
 
-## 기술 스택
+##  🛠 기술 스택
 
 <h3 align="center">시각화</h3>
 <p align="center">
@@ -156,7 +254,7 @@
 </br>
 </br>
 
-## 멤버
+## 😊멤버
 
 <table>
   <tr>
