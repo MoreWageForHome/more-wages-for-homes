@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/yygs321/more-wages-for-homes/blob/feat/-sql/pics/visualization_screenshots/image%20(2).png" alt="부동산 매매/전세가와 평균임금 상승률">
+      <img src="https://github.com/yygs321/more-wages-for-homes/blob/main/pics/visualization_screenshots/image%20(2).png" alt="부동산 매매/전세가와 평균임금 상승률">
     </td>
   </tr>
 </table>
@@ -12,7 +12,7 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/yygs321/more-wages-for-homes/blob/feat/-sql/pics/visualization_screenshots/image%20(4).png" alt="매매 / 전세 / 월세 자치구 별 거래량">
+      <img src="https://github.com/yygs321/more-wages-for-homes/blob/main/pics/visualization_screenshots/image%20(4).png" alt="매매 / 전세 / 월세 자치구 별 거래량">
     </td>
   </tr>
   <tr>
@@ -25,10 +25,10 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/yygs321/more-wages-for-homes/blob/feat/-sql/pics/visualization_screenshots/image%20(5).png" alt="매매 / 전월세 자치구 별 건물 유형 거래량">
+      <img src="https://github.com/yygs321/more-wages-for-homes/blob/main/pics/visualization_screenshots/image%20(5).png" alt="매매 / 전월세 자치구 별 건물 유형 거래량">
     </td>
     <td align="center">
-      <img src="https://github.com/yygs321/more-wages-for-homes/blob/feat/-sql/pics/visualization_screenshots/image%20(6).png" alt="건축연도별 매매량">
+      <img src="https://github.com/yygs321/more-wages-for-homes/blob/main/pics/visualization_screenshots/image%20(6).png" alt="건축연도별 매매량">
     </td>
   </tr>
   <tr>
@@ -43,10 +43,10 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/yygs321/more-wages-for-homes/blob/feat/-sql/pics/visualization_screenshots/image%20(7).png" alt="자치구별 세입 유형 거래량 분포">
+      <img src="https://github.com/yygs321/more-wages-for-homes/blob/main/pics/visualization_screenshots/image%20(7).png" alt="자치구별 세입 유형 거래량 분포">
     </td>
     <td align="center">
-      <img src="https://github.com/yygs321/more-wages-for-homes/blob/feat/-sql/pics/visualization_screenshots/image%20(8).png" alt="임대 면적 구간별 전/월세 임차 선호">
+      <img src="https://github.com/yygs321/more-wages-for-homes/blob/main/pics/visualization_screenshots/image%20(8).png" alt="임대 면적 구간별 전/월세 임차 선호">
     </td>
   </tr>
   <tr>
@@ -65,16 +65,16 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/yygs321/more-wages-for-homes/blob/feat/-sql/pics/visualization_screenshots/image%20(9).png"/>
+      <img src="https://github.com/yygs321/more-wages-for-homes/blob/main/pics/visualization_screenshots/image%20(9).png"/>
     </td>
     <td align="center">
-      <img src="https://github.com/yygs321/more-wages-for-homes/blob/feat/-sql/pics/visualization_screenshots/image%20(10).png" />
+      <img src="https://github.com/yygs321/more-wages-for-homes/blob/main/pics/visualization_screenshots/image%20(10).png" />
     </td>
     <td align="center">
-      <img src="https://github.com/yygs321/more-wages-for-homes/blob/feat/-sql/pics/visualization_screenshots/image%20(11).png" />
+      <img src="https://github.com/yygs321/more-wages-for-homes/blob/main/pics/visualization_screenshots/image%20(11).png" />
     </td>
     <td align="center">
-      <img src="https://github.com/yygs321/more-wages-for-homes/blob/feat/-sql/pics/visualization_screenshots/image%20(12).png" />
+      <img src="https://github.com/yygs321/more-wages-for-homes/blob/main/pics/visualization_screenshots/image%20(12).png" />
     </td>
   </tr>
   <tr>
@@ -95,7 +95,7 @@
 <table>
 <tr>
   <td>
-    <img src="https://github.com/yygs321/more-wages-for-homes/blob/feat/-sql/pics/visualization_screenshots/image%20(13).png" />
+    <img src="https://github.com/yygs321/more-wages-for-homes/blob/main/pics/visualization_screenshots/image%20(13).png" />
   </td>
 </tr>
 <tr>
@@ -109,13 +109,13 @@
 <table>
   <tr>
     <td>
-      <img src="https://github.com/yygs321/more-wages-for-homes/blob/feat/-sql/pics/visualization_screenshots/image%20(14).png" />
+      <img src="https://github.com/yygs321/more-wages-for-homes/blob/main/pics/visualization_screenshots/image%20(14).png" />
     </td>
       <td>
-      <img src="https://github.com/yygs321/more-wages-for-homes/blob/feat/-sql/pics/visualization_screenshots/image%20(15).png" />
+      <img src="https://github.com/yygs321/more-wages-for-homes/blob/main/pics/visualization_screenshots/image%20(15).png" />
     </td>
       <td>
-      <img src="https://github.com/yygs321/more-wages-for-homes/blob/feat/-sql/pics/visualization_screenshots/image%20(16).png" />
+      <img src="https://github.com/yygs321/more-wages-for-homes/blob/main/pics/visualization_screenshots/image%20(16).png" />
     </td>
   </tr>
   <tr>
@@ -136,10 +136,10 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/yygs321/more-wages-for-homes/blob/feat/-sql/pics/visualization_screenshots/image%20(15).png" />
+      <img src="https://github.com/yygs321/more-wages-for-homes/blob/main/pics/visualization_screenshots/image%20(17).png" />
     </td>
     <td align="center">
-      <img src="https://github.com/yygs321/more-wages-for-homes/blob/feat/-sql/pics/visualization_screenshots/image%20(16).png" />
+      <img src="https://github.com/yygs321/more-wages-for-homes/blob/main/pics/visualization_screenshots/image%20(18).png" />
     </td>
   </tr>
   <tr>
@@ -161,7 +161,7 @@
 
 <table>
   <td align="center">
-    <img src="https://github.com/yygs321/more-wages-for-homes/blob/feat/-sql/pics/system_architecture.png">
+    <img src="https://github.com/yygs321/more-wages-for-homes/blob/main/pics/system_architecture.png">
   </td>
 </table>
 
@@ -211,10 +211,10 @@
 <table>
   <tr>
     <td align="center">
-        <img src="https://github.com/yygs321/more-wages-for-homes/blob/feat/-sql/pics/raw_data_erd.png">
+        <img src="https://github.com/yygs321/more-wages-for-homes/blob/main/pics/raw_data_erd.png">
     </td>
     <td align="center">
-        <img src="https://github.com/yygs321/more-wages-for-homes/blob/feat/-sql/pics/analytics_erd.png">
+        <img src="https://github.com/yygs321/more-wages-for-homes/blob/main/pics/analytics_erd.png">
     </td>
   </tr>
   <tr>
