@@ -1,5 +1,18 @@
-## 📍 프로젝트 시각화 결과
-### 부동산 매매/전세가와 평균임금 상승률
+## **🚀 My Role in the Project**  
+
+I contributed to this project as a **Data Engineer**, focusing on **building and optimizing data pipelines, preprocessing data, and designing the database structure.**  
+
+### **Key Contributions:**  
+- **Developed ETL Pipelines** → Collected and processed real estate and wage data using **Python & SQL**  
+- **Database Design & Management** → Designed and optimized **PostgreSQL** schema for efficient querying  
+- **Data Cleaning & Preprocessing** → Implemented **automated data transformation** workflows  
+- **Data Visualization Support** → Assisted in generating **Preset.io dashboards** for analysis  
+- **Team Collaboration** → Managed project coordination using **Notion & Zep**, contributing to structured workflow  
+
+---
+
+## 📍 Project Visualization Results
+### Real Estate Sales/Lease Prices and Average Wage Growth
 <table>
   <tr>
     <td align="center">
@@ -8,7 +21,7 @@
   </tr>
 </table>
 
-### 거래 타입별 거래량
+### Transaction Volume by Type
 <table>
   <tr>
     <td align="center">
@@ -17,7 +30,7 @@
   </tr>
   <tr>
     <td align="center">
-      <span>매매 / 전세 / 월세 자치구 별 거래량</span>
+      <span>Transaction Volume by District and Type (Sale/Lease/Monthly Rent)</span>
     </td>
   </tr>
 </table>
@@ -33,10 +46,10 @@
   </tr>
   <tr>
     <td align="center">
-      <span>매매 / 전월세 자치구 별 건물 유형 거래량</span>
+      <span>Transaction Volume by District and Building Type (Sale/Lease/Monthly Rent)</span>
     </td>
     <td align="center">
-      <span>건축연도별 매매량</span>
+      <span>Transaction Volume by Year of Construction</span>
     </td>
   </tr>
 </table>
@@ -51,16 +64,16 @@
   </tr>
   <tr>
     <td align="center">
-      <span>자치구별 세입 유형 거래량 분포</span>
+      <span>Tenant Type Distribution by District</span>
     </td>
     <td align="center">
-      <span>임대 면적 구간별 전/월세 임차 선호</span>
+      <span>Preferred Rental Type by Lease Area Range</span>
     </td>
   </tr>
 </table>
 
 
-### 자치구, 거래 타입별 거래가
+### Transaction Prices by District and Type
 
 <table>
   <tr>
@@ -79,16 +92,16 @@
   </tr>
   <tr>
     <td align="center">
-      <span>평균 매매가</span>
+      <span>Average Sale Price</span>
     </td>
     <td align="center">
-      <span>평균 전세가</span>
+      <span>Average Lease Price</span>
     </td>
     <td align="center">
-      <span>평균 월세 보증금</span>
+      <span>Average Monthly Rent Deposit</span>
     </td>
     <td align="center">
-      <span>평균 월세</span>
+      <span>Average Monthly Rent</span>
     </td>
   </tr>
 </table>
@@ -100,12 +113,12 @@
 </tr>
 <tr>
     <td align="center">
-      <span>자치구별 매매/전세 평당 가격</span>
+      <span>Sale/Lease Price per Square Meter by District</span>
     </td>
 </tr>
 </table>
 
-### 거래량 / 가격 비교
+### Transaction Volume vs. Price Comparison
 <table>
   <tr>
     <td>
@@ -120,18 +133,18 @@
   </tr>
   <tr>
     <td align="center">
-      <span>매매 부동산 거래량 - 매매가</span>
+      <span>Sale Transaction Volume vs. Sale Price</span>
     </td>
     <td align="center">
-      <span>전세 부동산 거래량 - 전세가</span>
+      <span>Lease Transaction Volume vs. Lease Price</span>
     </td>
     <td align="center">
-      <span>월세 부동산 거래량 - 월세</span>
+      <span>Monthly Rent Transaction Volume vs. Monthly Rent Price</span>
     </td>
   </tr>
 </table>
 
-### 임금 / 부동산 정보 비교
+### Wage vs. Real Estate Data Comparison
 
 <table>
   <tr>
@@ -144,10 +157,10 @@
   </tr>
   <tr>
     <td align="center">
-      <span>연령대별 연도별 임금상승률 추이</span>
+      <span>Annual Wage Growth Trend by Age Group</span>
     </td>
     <td align="center">
-      <span>연도별 임차료 및 평균 연봉</span>
+      <span>Yearly Rent and Average Salary Comparison</span>
     </td>
   </tr>
 </table>
@@ -157,7 +170,7 @@
 
 ## ⚙System Architecture
 
-### 데이터 파이프라인
+### Data Pipeline
 
 <table>
   <td align="center">
@@ -165,42 +178,42 @@
   </td>
 </table>
 
-### 파이프라인 및 활용기술 명세
+### Pipeline and Technologies Used
 <table>
   <tr>
     <th>TASK</th>
-    <th>활용 기술</th>
-    <th>비고</th>
+    <th>Technologies Used</th>
+    <th>Remarks</th>
   </tr>
   <tr>
     <td>Data Collection</td>
     <td>Python, SQL</td>
-    <td>보도자료 이용하여 csv 파일 생성</td>
+    <td>Generate CSV files from press releases</td>
   </tr>
   <tr>
     <td>Data Preprocessing</td>
     <td>Python, SQL</td>
-    <td>데이터 정제 및 전처리 수행</td>
+    <td>Perform data cleaning and preprocessing</td>
   </tr>
   <tr>
     <td>Data Lake</td>
     <td>On-premise</td>
-    <td>개인 서버에 Postgre 서버 구축</td>
+    <td>Set up PostgreSQL server on a private server</td>
   </tr>
   <tr>
     <td>Data Warehouse (DB)</td>
     <td>On-premise</td>
-    <td>상동</td>
+    <td>Same as above</td>
   </tr>
   <tr>
     <td>Visualization & Dashboard</td>
     <td>Preset.io</td>
-    <td>데이터 시각화 대시보드 구축</td>
+    <td>Build data visualization dashboard</td>
   </tr>
   <tr>
     <td>Team Management</td>
     <td>Notion, Zep</td>
-    <td>매일 14시 프로젝트 회의 진행</td>
+    <td>Conduct daily project meetings at 14:00</td>
   </tr>
 </table>
 
@@ -230,9 +243,9 @@
 </br>
 </br>
 
-##  🛠 기술 스택
+##  🛠 Technology Stack
 
-<h3 align="center">시각화</h3>
+<h3 align="center">Visualization</h3>
 <p align="center">
     <img src="https://img.shields.io/badge/apachesuperset-20A6C9?&logo=apachesuperset&logoColor=white">
     <img src="https://img.shields.io/badge/preset-00B992?logoColor=white" alt="preset" />
@@ -254,7 +267,7 @@
 </br>
 </br>
 
-## 😊멤버
+## 😊Members
 
 <table>
   <tr>
